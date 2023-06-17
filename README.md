@@ -24,7 +24,7 @@ Aparecera la siguiente imagen lugar de trabajo de nodejs
 
 1. Se realiza la siguiente estructura 
 
-![]()
+![](https://github.com/AxelMld/Practica9-lediot/blob/main/estructura.png?raw=true)
 
 ### Configuracion y herramientas usadas 
 
@@ -37,11 +37,12 @@ Aparecera la siguiente imagen lugar de trabajo de nodejs
 ## CONFIGURACION ESTRUCTURA NODEJS
 
 * Para la configuracion de mqtt in se utilizo la siguiente 
-![]()
+
+![](https://github.com/AxelMld/Practica9-lediot/blob/main/conf%20mqtt.png?raw=true)
 
 * Para boton switch 
 
-![]()
+![](https://github.com/AxelMld/Practica9-lediot/blob/main/conf%20boton.png?raw=true)
 
 ---------------------------------------------------------------
 
@@ -73,7 +74,7 @@ woki : https://wokwi.com
 
 ## **Conexión**
 
-![]()
+![](https://github.com/AxelMld/Practica9-lediot/blob/main/conexion%20wok.png?raw=true)
 
 
 ## **Librerías**
@@ -171,11 +172,9 @@ void callback(char* topic, byte* payload, unsigned int length) {
 
 ## 1. Resultado de la pagina WOKWI 
 
-![]()
+![](https://github.com/AxelMld/Practica9-lediot/blob/main/resultado%201.png?raw=true)
 
-![]()
-
-
+![](https://github.com/AxelMld/Practica9-lediot/blob/main/resultado%202.png?raw=true)
 
 
 
